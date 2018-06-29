@@ -7,7 +7,5 @@ namespace GitMvcApp
 {
     public class GitIgnore
     {
-        //Hello 
-
     }
 }
